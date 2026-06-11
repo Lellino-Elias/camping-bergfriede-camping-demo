@@ -161,7 +161,7 @@ export const campingBergfriede: CampsiteConfig = {
     telHref: "tel:+434717401",
     mail: "info@camping-bergfriede.com",
     adresse: "Mitterberg 3 · 9754 Steinfeld · Kärnten",
-    coords: { lat: 46.761996, lng: 13.2430676 },
+    coords: { lat: 46.761964, lng: 13.243101 },
   },
 
   story: {
